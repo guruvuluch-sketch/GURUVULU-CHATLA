@@ -1,0 +1,5 @@
+{
+  "name": "IntentBridge",
+  "description": "AI-powered intent detection and risk assessment tool for text, voice, and image inputs.",
+  "requestFramePermissions": ["microphone"]
+}
